@@ -1,2 +1,2 @@
-# gargoyle_installer
+# gargoyle_utility
 Installer for gargoyle GSI
